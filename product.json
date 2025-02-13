@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "name": "Kids Books",
+      "category": "Books",
+      "description": "Fun and educational books for kids.",
+      "price": 499,
+      "discount_price": 249,
+      "stock": 50,
+      "image": "assets/kids-books.jpg"
+    },
+    {
+      "name": "NCERT UPSC Books",
+      "category": "Books",
+      "description": "Books for UPSC preparation with NCERT curriculum.",
+      "price": 999,
+      "discount_price": 699,
+      "stock": 30,
+      "image": "assets/ncert-upsc.jpg"
+    },
+    {
+      "name": "Encyclopedia",
+      "category": "Books",
+      "description": "A comprehensive encyclopedia for general knowledge.",
+      "price": 1299,
+      "discount_price": 779,
+      "stock": 20,
+      "image": "assets/encyclopedia.jpg"
+    },
+    {
+      "name": "Story Books",
+      "category": "Books",
+      "description": "Engaging and thrilling stories for all ages.",
+      "price": 350,
+      "discount_price": 199,
+      "stock": 40,
+      "image": "assets/crime-grime.jpg"
+    },
+    {
+      "name": "Educational Books",
+      "category": "Books",
+      "description": "Books to enhance learning in various subjects.",
+      "price": 599,
+      "discount_price": 449,
+      "stock": 60,
+      "image": "assets/exam-books.jpg"
+    },
+    {
+      "name": "Magazines",
+      "category": "Books",
+      "description": "Current affairs and lifestyle magazines.",
+      "price": 250,
+      "discount_price": 150,
+      "stock": 100,
+      "image": "assets/karma.jpg"
+    },
+    {
+      "name": "Science Fiction Books",
+      "category": "Books",
+      "description": "Exciting and imaginative science fiction stories.",
+      "price": 799,
+      "discount_price": 499,
+      "stock": 25,
+      "image": "assets/psychology.jpg"
+    },
+    {
+      "name": "Cookbooks",
+      "category": "Books",
+      "description": "Delicious recipes and culinary techniques.",
+      "price": 499,
+      "discount_price": 299,
+      "stock": 35,
+      "image": "assets/crime-grime.jpg"
+    },
+    {
+      "name": "Business Management Books",
+      "category": "Books",
+      "description": "Books for business professionals and entrepreneurs.",
+      "price": 999,
+      "discount_price": 749,
+      "stock": 20,
+      "image": "assets/karma.jpg"
+    },
+    {
+      "name": "Travel Guides",
+      "category": "Books",
+      "description": "Explore the world with detailed travel guides.",
+      "price": 699,
+      "discount_price": 449,
+      "stock": 30,
+      "image": "assets/crime-grime.jpg"
+    },
+    {
+      "name": "Health & Fitness Books",
+      "category": "Books",
+      "description": "Books to help you achieve a healthy and fit lifestyle.",
+      "price": 399,
+      "discount_price": 249,
+      "stock": 50,
+      "image": "assets/psychology.jpg"
+    },
+    {
+      "name": "Photography Books",
+      "category": "Books",
+      "description": "Capture the world with professional photography tips.",
+      "price": 1200,
+      "discount_price": 799,
+      "stock": 15,
+      "image": "assets/karma.jpg"
+    },
+    {
+      "name": "Art Books",
+      "category": "Books",
+      "description": "Explore art history and contemporary art forms.",
+      "price": 950,
+      "discount_price": 649,
+      "stock": 20,
+      "image": "assets/psychology.jpg"
+    },
+    {
+      "name": "Children's Storybooks",
+      "category": "Books",
+      "description": "Colorful and interactive storybooks for young children.",
+      "price": 250,
+      "discount_price": 149,
+      "stock": 75,
+      "image": "assets/crime-grime.jpg"
+    }
+  ]
+}
